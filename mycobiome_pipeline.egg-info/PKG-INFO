@@ -1,0 +1,20 @@
+Metadata-Version: 2.4
+Name: mycobiome-pipeline
+Version: 0.1.0
+Summary: Pan-cancer mycobiome multi-agent biomarker discovery pipeline
+Requires-Python: >=3.10
+Requires-Dist: langgraph>=0.2.0
+Requires-Dist: langchain>=0.2.0
+Requires-Dist: langchain-openai>=0.1.0
+Requires-Dist: langchain-community>=0.2.0
+Requires-Dist: langchain-core>=0.2.0
+Requires-Dist: openai>=1.0.0
+Requires-Dist: scikit-learn>=1.3.0
+Requires-Dist: xgboost>=2.0.0
+Requires-Dist: lifelines>=0.27.0
+Requires-Dist: numpy>=1.26.0
+Requires-Dist: pandas>=2.0.0
+Requires-Dist: matplotlib>=3.8.0
+Requires-Dist: seaborn>=0.13.0
+Requires-Dist: scipy>=1.11.0
+Requires-Dist: requests>=2.31.0

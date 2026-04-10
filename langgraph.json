@@ -1,0 +1,7 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "mycobiome_pipeline": "./mycobiome_agents/orchestrator.py:graph"
+  },
+  "env": ".env"
+}

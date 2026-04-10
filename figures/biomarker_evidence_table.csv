@@ -1,0 +1,21 @@
+Rank,Genus,RF Importance Rank,Top AUROC cancer,Literature evidence,Direction,Mechanism (GPT-4),GPT-4 confidence
+1,Malassezia,1,Not available,error,unclear,"Error code: 401 - {'error': {'message': 'Incorrect API key provided: lsv2_pt_***************************************1eb8. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",0.0
+2,Pyricularia,2,Not available,error,unclear,"Error code: 401 - {'error': {'message': 'Incorrect API key provided: lsv2_pt_***************************************1eb8. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",0.0
+3,Aspergillus_32,3,Not available,error,unclear,"Error code: 401 - {'error': {'message': 'Incorrect API key provided: lsv2_pt_***************************************1eb8. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",0.0
+4,Neurospora,4,Not available,not queried,—,—,—
+5,Aspergillus_26,5,Not available,error,unclear,"Error code: 401 - {'error': {'message': 'Incorrect API key provided: lsv2_pt_***************************************1eb8. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",0.0
+6,Aspergillus_30,6,Not available,error,unclear,"Error code: 401 - {'error': {'message': 'Incorrect API key provided: lsv2_pt_***************************************1eb8. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",0.0
+7,Diutina,7,Not available,not queried,—,—,—
+8,Blastomyces,8,Not available,error,unclear,"Error code: 401 - {'error': {'message': 'Incorrect API key provided: lsv2_pt_***************************************1eb8. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",0.0
+9,Candida_3,9,Not available,error,unclear,"Error code: 401 - {'error': {'message': 'Incorrect API key provided: lsv2_pt_***************************************1eb8. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",0.0
+10,Aspergillus_10,10,Not available,error,unclear,"Error code: 401 - {'error': {'message': 'Incorrect API key provided: lsv2_pt_***************************************1eb8. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",0.0
+11,Rhizophagus,11,Not available,not queried,—,—,—
+12,Clavispora_1,12,Not available,not queried,—,—,—
+13,Histoplasma,13,Not available,not queried,—,—,—
+14,Aspergillus_28,14,Not available,error,unclear,"Error code: 401 - {'error': {'message': 'Incorrect API key provided: lsv2_pt_***************************************1eb8. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",0.0
+15,Aspergillus_29,15,Not available,error,unclear,"Error code: 401 - {'error': {'message': 'Incorrect API key provided: lsv2_pt_***************************************1eb8. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",0.0
+16,Neurospora_1,16,Not available,not queried,—,—,—
+17,Trichophyton_1,17,Not available,not queried,—,—,—
+18,Fusarium_4,18,Not available,not queried,—,—,—
+19,Paracoccidioides,19,Not available,not queried,—,—,—
+20,Trichoderma_4,20,Not available,not queried,—,—,—
