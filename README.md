@@ -1,6 +1,6 @@
 # Multi-Agent Bioinformatics Pipeline
 
-A production-grade multi-agent system for pan-cancer mycobiome biomarker discovery, built with **LangGraph** and modeled after the [PromptBio](https://promptbio.ai) architecture. Seven autonomous agents orchestrate an end-to-end workflow — from raw TCGA data ingestion through ML-based biomarker discovery, LLM-powered literature validation, and automated report synthesis.
+A production-grade multi-agent system for pan-cancer mycobiome biomarker discovery, built with **LangGraph**. Seven autonomous agents orchestrate an end-to-end workflow — from raw TCGA data ingestion through ML-based biomarker discovery, LLM-powered literature validation, and automated report synthesis.
 
 > **Reference:** Narunsky-Haziza, Sepich-Poore, Livyatan et al. (2022). *Pan-cancer analyses reveal cancer-type-specific fungal ecologies and bacteriome interactions.* **Cell.** [doi:10.1016/j.cell.2022.09.005](https://doi.org/10.1016/j.cell.2022.09.005)
 
