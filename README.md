@@ -50,8 +50,8 @@ Each agent is an autonomous LangGraph node that reads from and writes to a share
 | **DataGenie** | `agents/data_genie.py` | Downloads TCGA `Final_files` from GitHub, detects metadata schema, validates file integrity |
 | **OmicsGenie** | `agents/omics_genie.py` | CLR normalization, Shannon alpha diversity, Aitchison PCA, K-means mycotype clustering (F1/F2/F3) |
 | **MLGenie 3A** | `agents/ml_genie.py` | Random Forest pan-cancer classifier — one-vs-all AUROC across 30+ cancer types, 5-fold CV |
-| **MLGenie 3B** | `agents/ml_genie.py` | Kaplan-Meier survival curves + Cox PH model — Candida abundance vs. GI cancer prognosis |
-| **MLGenie 3C** | `agents/ml_genie.py` | Multi-domain synergy — fungi-only vs. bacteria-only vs. combined AUROC comparison |
+| **MLGenie 3B** | `agents/ml_genie.py` | Kaplan-Meier survival curves + Cox PH model,  Candida abundance vs. GI cancer prognosis |
+| **MLGenie 3C** | `agents/ml_genie.py` | Multi-domain synergy, fungi-only vs. bacteria-only vs. combined AUROC comparison |
 | **MarkerGenie** | `agents/marker_genie.py` | PubMed query via Entrez E-utilities + GPT-4o-mini structured evidence extraction |
 | **ReportGenie** | `agents/report_genie.py` | Heatmaps, 6-panel summary figure, biomarker evidence CSV, Markdown report |
 
